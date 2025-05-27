@@ -1,16 +1,39 @@
-## Hi there 👋
+👋 Hi, I'm Awindrela Roy Dristy!
+A passionate and curious learner, currently building my skills in Web Development and Software Quality Assurance (SQA).
 
-<!--
-**Rawindrela/Rawindrela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 What I'm Learning:
 
-Here are some ideas to get you started:
+Front-End: HTML, CSS, JavaScript, React (in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Back-End: Node.js, Express (exploring)
+
+SQA: Manual Testing, Test Case Writing, Bug Reporting, Basic Automation (learning phase)
+
+🚀 Goals:
+
+Become confident in full-stack development
+
+Understand and apply software testing principles effectively
+
+Build real-world projects and contribute to open-source
+
+Follow best practices for clean, maintainable code and quality assurance
+
+🛠️ Tools & Technologies:
+
+VS Code, Git & GitHub, Chrome DevTools
+
+Postman, JIRA (basics), Selenium (learning)
+
+📚 Currently Working On:
+
+Mini front-end projects
+
+Writing test cases for sample applications
+
+Improving logic and debugging skills
+
+🌱 I'm on a continuous learning journey — blending coding and quality together for better software!
+
+📫 Let's Connect:
+[[Your Email or LinkedIn or Portfolio link](https://www.linkedin.com/in/awindrela-roy-dristy/)]
