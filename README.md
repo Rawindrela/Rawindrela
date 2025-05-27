@@ -1,39 +1,77 @@
-👋 Hi, I'm Awindrela Roy Dristy!
-A passionate and curious learner, currently building my skills in Web Development and Software Quality Assurance (SQA).
+# 👋 Hi, I'm Awindrela Roy Dristy
 
-💻 What I'm Learning:
+Welcome to my GitHub profile!  
+I'm **Awindrela Roy Dristy**, a passionate Computer Science and Engineering (CSE) student at **Independent University, Bangladesh (IUB)**.
 
-Front-End: HTML, CSS, JavaScript, React (in progress)
+🌱 Currently building my skills in **Web Development** and **Software Quality Assurance**, and aspiring to be a great **Software Engineer**! 🚀
 
-Back-End: Node.js, Express (exploring)
+---
 
-SQA: Manual Testing, Test Case Writing, Bug Reporting, Basic Automation (learning phase)
 
-🚀 Goals:
+## 👀 Interests
 
-Become confident in full-stack development
+- 🌐 Full-Stack Web Development (Frontend + Backend)  
+- 🧪 Software Quality Assurance (Manual & Automated Testing)  
+- 🎨 UI/UX Design & Responsive Web Interfaces  
+- 🧠 Web Performance Optimization & Debugging  
+- 🧰 Agile Development & CI/CD Pipelines  
+- 🔒 Web Security & Best Coding Practices  
 
-Understand and apply software testing principles effectively
 
-Build real-world projects and contribute to open-source
+---
 
-Follow best practices for clean, maintainable code and quality assurance
+## 🌱 Currently Learning
 
-🛠️ Tools & Technologies:
+- 🌐 Frontend Technologies: HTML5, CSS3, JavaScript, React  
+- 🖥️ Backend Basics: Node.js, Express, MongoDB  
+- 🎯 Manual Testing: Test Case Design, Bug Reporting, Requirement Analysis  
+- ⚙️ Automation Testing (Beginner Level): Selenium, Postman  
+- 🔁 Version Control & Team Collaboration: Git & GitHub  
+- 📋 Agile Methodologies & QA Processes  
+- 🎨 UI/UX Design Principles for Better User Experience  
 
-VS Code, Git & GitHub, Chrome DevTools
 
-Postman, JIRA (basics), Selenium (learning)
+---
 
-📚 Currently Working On:
+## 💻 Tech Stack
 
-Mini front-end projects
+**Languages & Scripting:**  
+`HTML5` | `CSS3` | `JavaScript` | `Python` | `Java` (basic)
 
-Writing test cases for sample applications
+**Frontend Development:**  
+`React` | `Bootstrap` | `Tailwind CSS`
 
-Improving logic and debugging skills
+**Backend Development:**  
+`Node.js` | `Express.js` | `MongoDB` (beginner level)
 
-🌱 I'm on a continuous learning journey — blending coding and quality together for better software!
+**Version Control & Tools:**  
+`Git` | `GitHub` | `VS Code`
 
-📫 Let's Connect:
-[[Your Email or LinkedIn or Portfolio link](https://www.linkedin.com/in/awindrela-roy-dristy/)]
+**Software Testing & QA Tools:**  
+`Manual Testing` | `Test Case Writing` | `Bug Reporting` | `Postman` | `Selenium (learning)` | `JIRA (basics)`
+
+**Development Practices:**  
+`Agile` | `Debugging` | `Responsive Design` | `Cross-Browser Testing`
+
+
+---
+
+## 🎯 Looking to Collaborate On
+
+- 🌐 Web Development projects (Frontend, Backend, or Full-Stack)  
+- 🧪 QA & Testing initiatives (Manual or Automated)  
+- 🖼️ UI/UX Design improvements for real-world applications  
+- 🛠️ Open-source projects focused on bug fixing, performance, and scalability  
+- 📦 Agile-based development environments for learning team collaboration  
+- 💡 Innovative ideas that solve real-life problems with technology
+
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [awindreladristy@gmail.com]  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/awindrela-roy-dristy/) 
+
+---
+
